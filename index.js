@@ -1,3 +1,3 @@
 function test() {
-  console.log('master')
+  console.log('master branch')
 }
