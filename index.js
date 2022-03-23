@@ -1,3 +1,3 @@
 function test() {
-  console.log('dev branch to master')
+  console.log('冲突222')
 }
