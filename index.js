@@ -1,3 +1,3 @@
 function test() {
-  console.log('冲突222')
+  console.log('chore1')
 }
