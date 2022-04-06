@@ -1,3 +1,3 @@
 function test() {
-  console.log('chore1')
+  console.log('chore1222')
 }
